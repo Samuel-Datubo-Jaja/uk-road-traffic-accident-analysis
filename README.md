@@ -7,7 +7,16 @@
 - Locally seen from my drive https://drive.google.com/drive/folders/1oWY6WVPGVB78ifwEHIXles9K-Xm53SOR 
 
 ## UK Road Traffic Accident Analysis and Prediction Using Data Mining Techniques
-Led an in-depth analysis of UK road traffic accident data using advanced data mining techniques to identify patterns, predict future accident occurrences, and provide actionable safety recommendations. This comprehensive project combined temporal analysis, geographical clustering, association rule mining, and time series forecasting,
+Led an in-depth analysis of UK road traffic accident data using advanced data mining techniques to identify patterns, predict future accident occurrences, and provide actionable safety recommendations. This comprehensive project combined temporal analysis, geographical clustering, association rule mining, time series forecasting, and social network analysis to derive meaningful insights from the Department for Transport dataset.
+
+## Key Accomplishments:
+
+1. Performed temporal analysis revealing critical accident patterns: identified peak accident hours (4-7 PM), highest risk days (Saturdays, Fridays), and vehicle-specific patterns for motorcycles and pedestrians.
+2. Applied the Apriori algorithm with minimum support (0.2) and confidence (0.5) thresholds to discover that 81.4% of accidents occur under favorable environmental conditions.
+3. Created geographical visualizations identifying major accident hotspots in Kingston upon Hull (358 accidents) and Grimsby Northeast Lincolnshire (163 accidents).
+4. Developed time series forecasting models at both regional (Yorkshire counties) and local levels (Hull LSOAs), revealing higher predictability for weekly regional accidents (MSE 38-87) compared to daily neighborhood predictions.
+5. Constructed and analyzed a complex social network with 4,039 nodes and 88,234 edges, applying both Girvan-Newman and Louvain community detection algorithms to reveal network structures.
+6. Generated data-driven recommendations for targeted safety interventions focused on driver behavior, infrastructure improvements, and public safety campaigns.
 
 
 
