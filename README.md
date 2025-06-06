@@ -19,7 +19,7 @@ Led an in-depth analysis of UK road traffic accident data using advanced data mi
 6. Generated data-driven recommendations for targeted safety interventions focused on driver behavior, infrastructure improvements, and public safety campaigns.
 
 
-
+## Visualization
 ![All_Accident_Frequency_by_Hour_and_Day_of_Week](https://github.com/user-attachments/assets/ebdb898f-3704-49b9-aeb6-776c6f02e4b1)
 ![Motorbike_Accident_Frequency_by_Hour_and_Day_of_Week](https://github.com/user-attachments/assets/3809dac8-47b5-459d-80a5-741e51e40f88)
 ![Pedestrian_Accident_Frequency_by_Hour_and_Day_of_Week](https://github.com/user-attachments/assets/b0124c9a-9d4f-4183-9adc-cdd98a38fd18)
